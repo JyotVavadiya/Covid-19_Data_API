@@ -1,16 +1,9 @@
-# api_covid_19
+## Covid-19 Data using API
 
-A new Flutter project.
+```bash
 
-## Getting Started
+Package:
 
-This project is a starting point for a Flutter application.
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/102645700/169691543-a63d4fc0-bffa-45f1-bdfb-68a22a32e098.mp4
